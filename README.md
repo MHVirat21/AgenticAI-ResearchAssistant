@@ -32,11 +32,11 @@ Powered by \*\*Groq, LangChain, FAISS, Hugging Face and Streamlit\*\*.
 
 
 
-\## 📸 Application Screenshots
+&#x20;   📸 Application Screenshots
 
 
 
-\### 1. PDF Upload and AI Research Dashboard
+&#x20;  1. PDF Upload and AI Research Dashboard
 
 
 
@@ -44,7 +44,7 @@ Powered by \*\*Groq, LangChain, FAISS, Hugging Face and Streamlit\*\*.
 
 
 
-\### 2. PDF Document Ready
+&#x20;  2. PDF Document Ready
 
 
 
@@ -52,7 +52,7 @@ Powered by \*\*Groq, LangChain, FAISS, Hugging Face and Streamlit\*\*.
 
 
 
-\## 🛠️ Technologies Used
+&#x20;  🛠️ Technologies Used
 
 
 
