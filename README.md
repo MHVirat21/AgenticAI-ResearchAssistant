@@ -32,6 +32,18 @@ Powered by \*\*Groq, LangChain, FAISS, Hugging Face and Streamlit\*\*.
 
 
 
+\## 📸 Application Screenshots
+
+
+
+\### 1. PDF Upload and AI Research Dashboard
+
+
+
+!\[Agentic AI Research Assistant Dashboard](screenshots/01-pdf-upload.png)
+
+
+
 \## 🛠️ Technologies Used
 
 
@@ -80,13 +92,11 @@ AgenticAI\_ResearchAssistant/
 
 │
 
-├── documents/
+├── screenshots/
 
-├── vectorstore/
+│   └── 01-pdf-upload.png
 
 │
-
-├── .env
 
 ├── .gitignore
 
@@ -108,9 +118,9 @@ AgenticAI\_ResearchAssistant/
 
 ```bash
 
-git clone YOUR\_GITHUB\_REPOSITORY\_URL
+git clone https://github.com/MHVirat21/AgenticAI-ResearchAssistant.git
 
-cd AgenticAI\_ResearchAssistant
+cd AgenticAI-ResearchAssistant
 
 ```
 
