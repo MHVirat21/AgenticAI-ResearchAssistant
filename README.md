@@ -44,6 +44,14 @@ Powered by \*\*Groq, LangChain, FAISS, Hugging Face and Streamlit\*\*.
 
 
 
+\### 2. PDF Document Ready
+
+
+
+!\[PDF Document Ready](screenshots/02-document-ready.png)
+
+
+
 \## 🛠️ Technologies Used
 
 
@@ -94,7 +102,9 @@ AgenticAI\_ResearchAssistant/
 
 ├── screenshots/
 
-│   └── 01-pdf-upload.png
+│   ├── 01-pdf-upload.png
+
+│   └── 02-document-ready.png
 
 │
 
