@@ -1,0 +1,35 @@
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Python virtual environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# FAISS generated database
+vectorstore/
+
+# Uploaded documents and private PDFs
+documents/
+*.pdf
+
+# Streamlit
+.streamlit/secrets.toml
+
+# IDE settings
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.tmp
