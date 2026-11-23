@@ -49,6 +49,14 @@ Powered by \*\*Groq, LangChain, FAISS, Hugging Face and Streamlit\*\*.
 
 ![Document Summary](screenshots/04-document-summary.png)
 
+### 5. Quiz Generator
+
+![Quiz Generator](screenshots/05-quiz-generator.png)
+
+### 6. Key Points Extractor
+
+![Key Points Extractor](screenshots/06-key-points.png)
+
 ## 🛠️ Technologies Used
 
 | Technology | Purpose |
