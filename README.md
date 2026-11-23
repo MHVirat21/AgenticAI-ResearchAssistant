@@ -45,6 +45,10 @@ Powered by \*\*Groq, LangChain, FAISS, Hugging Face and Streamlit\*\*.
 
 ![AI Research Chat](screenshots/03-ai-research-chat.png)
 
+### 4. Document Summary
+
+![Document Summary](screenshots/04-document-summary.png)
+
 ## 🛠️ Technologies Used
 
 | Technology | Purpose |
