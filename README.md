@@ -20,7 +20,7 @@ Powered by \*\*Groq, LangChain, FAISS, Hugging Face and Streamlit\*\*.
 
 \- 📑 \*\*Document Summary:\*\* Generate AI-powered document summaries.
 
-\- 🧠 \*\*Quiz Generator:\*\* Automatically generate quizzes from PDF content.
+\- 🧩 \*\*Quiz Generator:\*\* Automatically generate quizzes from PDF content.
 
 \- 🎯 \*\*Key Points Extractor:\*\* Extract important information from documents.
 
@@ -31,52 +31,31 @@ Powered by \*\*Groq, LangChain, FAISS, Hugging Face and Streamlit\*\*.
 \- 🔄 \*\*Document Reset:\*\* Clear uploaded document data and start a new research session.
 
 
+## 📸 Application Screenshots
 
-&#x20;   📸 Application Screenshots
+### 1. PDF Upload and AI Research Dashboard
 
+![Agentic AI Research Assistant Dashboard](screenshots/01-pdf-upload.png)
 
+### 2. PDF Document Ready
 
-&#x20;  1. PDF Upload and AI Research Dashboard
+![PDF Document Ready](screenshots/02-document-ready.png)
 
+### 3. AI Research Chat
 
+![AI Research Chat](screenshots/03-ai-research-chat.png)
 
-!\[Agentic AI Research Assistant Dashboard](screenshots/01-pdf-upload.png)
-
-
-
-&#x20;  2. PDF Document Ready
-
-
-
-!\[PDF Document Ready](screenshots/02-document-ready.png)
-
-
-
-&#x20;  🛠️ Technologies Used
-
-
+## 🛠️ Technologies Used
 
 | Technology | Purpose |
-
 |---|---|
-
 | Python | Core programming language |
-
 | Streamlit | User interface |
-
 | Groq API | Large Language Model inference |
-
 | LangChain | LLM application framework |
-
 | FAISS | Vector database and similarity search |
-
 | Hugging Face | Text embeddings |
-
-| Sentence Transformers | Semantic document embeddings |
-
 | PyPDF | PDF text extraction |
-
-| Python-dotenv | Environment variable management |
 
 
 
@@ -238,18 +217,6 @@ The application will open in your browser.
 
 
 
-\## 🔐 Security
-
-
-
-\- API keys are stored in environment variables.
-
-\- `.env` files are excluded from Git tracking.
-
-\- Uploaded documents and generated vector databases are excluded from Git tracking.
-
-
-
 \## 👨‍💻 Author
 
 
@@ -267,12 +234,4 @@ GitHub: \[MHVirat21](https://github.com/MHVirat21)
 
 
 Portfolio: \[My Portfolio](https://mh-virataiah-portfolio.vercel.app)
-
-
-
-\---
-
-
-
-⭐ If you find this project useful, consider giving it a star!
 
